@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+}
+@font-face{
+    src: url(../src/Assets/Fonts/Gilroy/Gilroy-Bold.ttf);
+    font-family: "Gilroy-Bold";
+    
+}
+@font-face{
+    src: url(../src/Assets/Fonts/Gilroy/Gilroy-Medium.ttf);
+    font-family: "Gilroy-Medium";  
+}
